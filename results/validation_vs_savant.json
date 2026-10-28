@@ -1,0 +1,11 @@
+{
+  "expected_stats_hitters": 662,
+  "pa_exact_match_pct": 100.0,
+  "woba_abs_diff_median": 0.0011,
+  "woba_abs_diff_p95": 0.005,
+  "xwoba_abs_diff_median": 0.0003,
+  "xwoba_abs_diff_p95": 0.0011,
+  "bat_tracking_hitters": 519,
+  "bat_speed_abs_diff_median_mph": 0.046,
+  "bat_speed_abs_diff_p95_mph": 0.16
+}

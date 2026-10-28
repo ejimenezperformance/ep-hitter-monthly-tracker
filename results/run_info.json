@@ -1,0 +1,8 @@
+{
+  "hitter_months": 2864,
+  "hitters": 662,
+  "pa": 183849,
+  "excluded_hitter_months": 1409,
+  "n_boot": 2000,
+  "seed": 2026
+}
